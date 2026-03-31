@@ -53,14 +53,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishat123456&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishat123456&layout=compact&theme=radical)
-
----
-
 ## 🌟 Featured Projects
 
 ### [Market Research Agent](https://github.com/nishat123456/market-research-agent)
@@ -97,7 +89,6 @@
 - **Academic Excellence Scholar** — University of Southern Mississippi
 - **President's List** (2023) · **Dean's List** (2024)
 - **2026 USM Undergraduate Research Symposium Presenter** — TinyML edge AI acoustic monitoring system
-- **General Secretary, Bangladeshi Student Association** (Spring 2024 – Spring 2025) — grew event attendance to 200+
 
 ---
 
