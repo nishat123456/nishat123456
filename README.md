@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2ea043&height=200&section=header&text=Mustaqim%20Nishat&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6e40c9,2ea043&height=250&section=header&text=Mustaqim%20Nishat&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=70)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A57AFF&width=600&lines=Building+production+RAG+systems+%F0%9F%A4%96;Full-stack+developer+%7C+Python+%2B+TypeScript;TinyML+%7C+Edge+AI+%7C+LLM+pipelines;CS+junior+%40+USM+%7C+GPA+3.70;Open+to+Fall+2026+internships)](https://git.io/typing-svg)
 
@@ -50,6 +50,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishat123456&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishat123456&layout=compact&theme=radical)
 
 ---
 
