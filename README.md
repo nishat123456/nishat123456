@@ -1,6 +1,6 @@
 # M M Nishat
 
-**CS Junior @ University of Southern Mississippi** · GPA 3.70 · Graduating May 2027
+**CS Junior @ University of Southern Mississippi** · Graduating May 2027
 Building ML systems that work where compute is scarce — edge hardware, production APIs, real constraints.
 
 ---
