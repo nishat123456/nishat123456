@@ -80,15 +80,6 @@
 ## 🎓 Education & Certifications
 
 - **B.Sc. Computer Science** — University of Southern Mississippi (Aug 2023 – May 2027)
-- **Presenter** — 2026 USM Undergraduate Research Symposium (TinyML edge AI acoustic monitoring system)
-
----
-
-## 🏆 Achievements & Awards
-
-- **Academic Excellence Scholar** — University of Southern Mississippi
-- **President's List** (2023) · **Dean's List** (2024)
-- **2026 USM Undergraduate Research Symposium Presenter** — TinyML edge AI acoustic monitoring system
 
 ---
 
@@ -97,7 +88,6 @@
 - Building AI systems that work in production, not just demos
 - Low-latency systems and edge AI (TinyML, embedded inference)
 - Clean backend architecture: parameterized queries, proper caching, observable pipelines
-- Competitive programming — **250+ LeetCode problems solved** (graphs, DP, BFS/DFS)
 - Contributing to open-source and shipping products with measurable impact
 
 ---
