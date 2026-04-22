@@ -10,7 +10,7 @@
 - 👯 I'm looking to collaborate on **AI/ML projects, full-stack apps, and open-source contributions**
 - 💬 Ask me about **RAG pipelines, FastAPI backends, multi-agent LLM systems, TinyML**
 - 📫 How to reach me: **nishat12sikdar@gmail.com**
-- ⚡ Fun fact: **I presented a TinyML edge AI system at the 2026 USM Undergraduate Research Symposium**
+
 
 ---
 
