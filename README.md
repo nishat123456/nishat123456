@@ -71,11 +71,6 @@
 - 5 classifiers including XGBoost, LightGBM, and LSTM; SHAP explainability + adversarial robustness testing
 - **Stack:** Python · XGBoost · LightGBM · LSTM · SHAP · scikit-learn
 
-### [Market Research Agent](https://github.com/nishat123456/market-research-agent)
-**Autonomous multi-agent system that decomposes research prompts into parallel subqueries and synthesizes structured reports.**
-- 3-agent pipeline (Planner, Researcher, Writer) with stateful LangGraph orchestration
-- **Stack:** Python · LangGraph · Groq · Llama 3.3 70B · DuckDuckGo
-
 ### [Gulf South Health Analysis](https://github.com/nishat123456/gulf-south-health-analysis)
 **Mississippi county health vulnerability analysis — CDC PLACES + SVI + HRSA data pipeline.**
 - Identified 16 double-burden counties; K-Means clustering across 82 counties x 13 health measures
